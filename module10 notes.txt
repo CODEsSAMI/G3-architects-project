@@ -1,0 +1,21 @@
+-- outilne:
+    1. 
+
+-- links:
+    1. 
+
+-- keywords:
+    1. 
+
+-- notes:
+    1. in case of using same type font styles, you can give unique class name with some properties in css, like- font size, font name, font style etc. then just add that class name in your required html elements, and get all the font style  together at a time. (saves time and no need to code same properties multiple times). example:
+    .work-sans-font {
+        font-family: "Work Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    }
+    now use this anytime you wish in html:
+    <h3 class="work-sans-font">hello<h3>
+
+    2.
